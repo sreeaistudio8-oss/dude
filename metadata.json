@@ -1,0 +1,6 @@
+{
+  "name": "BatchLine",
+  "description": "Voice-first production, inventory traceability, and compliance operations workspace for small-scale food and snack manufacturers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
